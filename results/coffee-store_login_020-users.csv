@@ -1,0 +1,40 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+123 /complete/search,40,2643,1287,5050,5300,5781,543,5781,50.000%,1.75770,32.23,0.00
+126 /complete/search,20,172,165,203,205,221,160,221,0.000%,1.08067,0.80,0.00
+124 /complete/search,20,196,194,206,240,272,168,272,0.000%,1.08050,1.28,0.00
+127 /log?format=json&hasfast=true,20,690,658,753,758,1022,592,1022,100.000%,1.05669,2.07,0.00
+128 /domainreliability/upload-nel,20,563,553,612,628,686,487,686,0.000%,1.08454,0.59,0.00
+131 /domainreliability/upload-nel,20,165,159,200,204,206,137,206,0.000%,1.11266,1.47,0.00
+113 /,20,2220,2253,2661,2783,3087,1451,3087,30.000%,1.04058,29.91,0.00
+132 /generate_204,40,405,238,618,618,654,184,654,0.000%,2.27777,1.69,0.00
+133 /domainreliability/upload,20,381,379,418,419,442,343,442,0.000%,1.15187,1.52,0.00
+125 /,40,4268,4490,7366,7971,9281,1468,9281,50.000%,1.66535,65.96,0.00
+130 /,20,2217,2287,2927,3363,3848,1441,3848,55.000%,1.04827,19.99,0.00
+137 /stats/TrustboxImpression,20,592,542,776,879,895,498,895,0.000%,1.16428,0.38,0.00
+141 /recaptcha/api2/anchor,20,614,479,987,1010,1321,418,1321,0.000%,1.13507,12.53,0.00
+143 /recaptcha/api2/bframe,20,288,210,327,749,777,195,777,0.000%,1.14416,2.41,0.00
+144 /recaptcha/api2/reload?k=6LdO5I8UAAAAAEIHxuroiWDNgYQmz6lHtswhEhdO,20,350,258,767,781,789,222,789,0.000%,1.14201,0.91,0.00
+146 /domainreliability/upload,40,526,366,410,459,3421,344,3421,0.000%,2.26219,2.99,0.00
+136 /static/version1592239385/frontend/Theme/default/en_GB/js-translation.json,40,3777,1616,6588,7009,7708,1454,7708,47.500%,1.72429,6.77,0.00
+138 /static/version1592239385/frontend/Theme/default/en_GB/Magento_Ui/templates/modal/modal-popup.html,20,370,363,382,401,439,354,439,0.000%,1.12600,1.04,0.00
+139 /static/version1592239385/frontend/Theme/default/en_GB/Magento_Ui/templates/modal/modal-slide.html,20,364,364,378,379,380,343,380,0.000%,1.12549,1.06,0.00
+135 /,20,1676,1514,2514,2517,2931,1441,2931,95.000%,1.05197,3.84,0.00
+140 /static/version1592239385/frontend/Theme/default/en_GB/Magento_Ui/templates/modal/modal-custom.html,20,1607,1521,1580,2454,2467,1462,2467,0.000%,1.09908,1.01,0.00
+142 /static/version1592239385/frontend/Theme/default/en_GB/Magento_Ui/templates/tooltip/tooltip.html,20,525,366,1277,1429,1548,351,1548,0.000%,1.16904,0.69,0.00
+Home Page,20,18121,18156,20241,20475,22506,14732,22506,100.000%,.54542,55.65,0.00
+147 /aw_blog/block/render/,40,2872,1493,5875,6529,6863,357,6863,92.500%,1.71365,18.03,0.00
+148 /static/version1592239385/frontend/Theme/default/en_GB/Magento_Ui/templates/block-loader.html,20,1525,1525,1578,1594,1601,1427,1601,0.000%,1.09111,0.60,0.00
+152 /static/version1592239385/frontend/Theme/default/en_GB/Magento_Checkout/template/minicart/content.html,20,371,366,384,393,414,339,414,0.000%,1.16097,1.82,0.00
+153 /static/version1592239385/frontend/Theme/default/en_GB/Magento_Customer/template/authentication-popup.html,20,510,371,413,1432,2076,347,2076,0.000%,1.05647,1.49,0.00
+150 /,20,1844,1518,2648,2695,2710,1420,2710,70.000%,.99616,13.33,0.00
+158 /v1/pages/Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRIlCX19Czj3ao8JEgsNCuBedRIAGgAiABILDV7DeT0SABoAIgAaABIlCVVcAVCwmm0wEgsNU1WBtRIAGgAiABILDc5BTHoSABoAIgAaAA==,20,618,608,689,713,717,565,717,0.000%,1.03498,0.72,0.00
+159 /generate_204,40,398,260,602,627,661,174,661,0.000%,2.07351,1.54,0.00
+160 /domainreliability/upload,20,372,378,397,403,434,307,434,0.000%,1.04921,1.39,0.00
+154 /customer/account/loginPost/,40,2274,1527,4340,4458,4557,1419,4557,75.000%,1.98344,21.19,0.00
+157 /static/version1592239385/frontend/Theme/default/en_GB/Magento_Captcha/template/checkout/captcha.html,40,3528,2353,6913,7924,8261,1433,8261,50.000%,1.73732,13.74,0.00
+156 /static/version1592239385/frontend/Theme/default/en_GB/Magento_Ui/template/messages.html,20,427,364,414,421,1538,326,1538,0.000%,1.05491,0.67,0.00
+161 /customer/account/,20,1040,381,2919,3367,4094,350,4094,80.000%,1.05541,9.05,0.00
+163 /v1/leaks:lookupSingle,20,601,597,652,654,791,533,791,100.000%,1.04379,0.79,0.00
+166 /customer/section/load/,20,1839,1608,2679,3000,3708,1527,3708,0.000%,1.00356,3.94,0.00
+Login,20,13649,13065,15808,17820,19790,11003,19790,100.000%,.67096,31.03,0.00
+TOTAL,940,2027,605,5177,7708,18422,137,22506,31.064%,18.88498,178.74,0.00
